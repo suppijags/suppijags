@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Supriya Jagdale
-- 🌱 I use Python, Power BI, SQL, Tableau, Advanced Excel in my day-to-day work to get insights on the data I work with!
+- 🌱 I use Python, Power BI, SQL, Tableau, Advanced Excel to get insights on the data I work with!
 - 📫 How to reach me supriyajagdale1994@gmail.com
 - ⚡ Fun fact: A biotechnologist turned Data Scientist!
 
